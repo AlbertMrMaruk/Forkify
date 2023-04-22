@@ -1,6 +1,6 @@
 {
   "name": "forkify",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Bookmarks",
   "default": "index.html",
   "scripts": {
