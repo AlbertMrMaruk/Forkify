@@ -24,7 +24,6 @@ A live demo of the application can be found here.
 git clone https://github.com/AlbertMrMaruk/Forkify.git
 ``
 2. Install the dependencies:
-
 ``
 npm install
 ``
