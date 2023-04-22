@@ -17,6 +17,7 @@ Forkify is a recipe search and bookmarking application built with JavaScript, HT
 
 ## Demo
 A live demo of the application can be found here.
+https://sparkly-longma-9ddb98.netlify.app
 
 ## Installation and Usage
 1. Clone the repository:
@@ -31,3 +32,4 @@ npm install
 ``
 npm start
 ``
+
